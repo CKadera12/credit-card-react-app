@@ -1,0 +1,15 @@
+{
+  "name": "credit-card-react-app",
+  "version": "1.0.0",
+  "description": "An app that automates my process of choosing the proper credit card for maximum rewards given the scenerio",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ls"
+  },
+  "author": "Clint Kadera",
+  "license": "MIT"
+}
